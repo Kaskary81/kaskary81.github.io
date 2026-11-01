@@ -1,1 +1,2 @@
 EUR/USD Flow version 2026.11.01-1200
+published again to restart the Pages deployment
